@@ -4,7 +4,7 @@ C# API Opskins
 
 
 
-You find apikey - https://opskins.com/?loc=store_account
+You find apikey - https://opskins.com/?loc=store_account#collapseAA
 
 <h2>Interfaces</h2>
 
