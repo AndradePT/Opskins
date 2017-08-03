@@ -1,8 +1,20 @@
 # Opskins
 C# API Opskins
 
+<h2>Interfaces</h2>
+
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li> GetBotStatus </li>
+  <li> GetBalance</li>
+  <li> GetPriceList</li>
+  <li> GetSales</li>
+  <li> SellItem</li>
+  <li> GetReturnItems</li>
+  <li> GetEditPrice</li>
+  <li> GetActiveTradeOffers</li>
+  <li> GetSearch</li>
+  <li> GetBuyItems</li>
+  <li> GetInventory</li>
+  <li> GetWithdraw</li>
+  <li> GetDeposit</li>
 </ul>  
